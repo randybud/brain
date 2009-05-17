@@ -1,1 +1,8 @@
-/Users/Randy/Documents/Work/environment_files/.gitignore
+.DS_Store
+db/*.sqlite3
+doc/api
+doc/app
+log/*.log
+tmp/**/*
+config/database.yml
+config/environments/production.rb
